@@ -19,10 +19,10 @@ const Register = ({ setCurrentView }: Props) => {
   return (
     <div className="max-w-sm flex flex-col items-center">
       <h1 className="text-large-semi uppercase mb-6">
-        Become a Medusa Store Member
+        Become a Drop Deals Member
       </h1>
       <p className="text-center text-base-regular text-ui-fg-base mb-4">
-        Create your Medusa Store Member profile, and get access to an enhanced
+        Create your Drop Deals Member profile, and get access to an enhanced
         shopping experience.
       </p>
       <form className="w-full flex flex-col" action={formAction}>

@@ -8,9 +8,9 @@ import { ProductCollectionWithPreviews } from "types/global"
 import { cache } from "react"
 
 export const metadata: Metadata = {
-  title: "Medusa Next.js Starter Template",
+  title: "drop.deals | Ofertas de maquillaje, perfume de marcas importadas. ¡Compra Online!",
   description:
-    "A performant frontend ecommerce starter template with Next.js 14 and Medusa.",
+    "Encuentra perfumes importados para mujer, para hombre, maquillaje, tratamiento, cosméticos, tratamientos para el cabello y más. Compra ahora y seguro.",
 }
 
 const getCollectionsWithProducts = cache(
